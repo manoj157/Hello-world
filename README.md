@@ -1,2 +1,4 @@
 # Hello-world
-Just another repository
+
+Hi people!
+Manoj here, I like python and web-development apps.
